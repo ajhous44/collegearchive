@@ -1,6 +1,6 @@
-# Old College Projects (Yikes!)
+# Old College Projects (I know this a README but maybe don't)
 
-Welcome to the repository of my old college projects that I've miraculously found and recovered as time goes on. 🕸️
+Welcome to the repository of my old college projects that I've miraculously found and recovered as time goes on. In hindsight, these should probably stay in the dark... 🕸️
 
 ## What's This?
 
